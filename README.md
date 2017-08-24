@@ -1,7 +1,7 @@
 * Check out for Project3.R script to get the script creating the tidy data : "data_summarize". 
 * Check out for "CodeBook.md" to get information about variable type.
 
-#### The script execute these steps : 
+### The script follows these steps : 
 
 
 1/ Download all files we need
