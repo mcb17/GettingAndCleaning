@@ -1,34 +1,34 @@
 
 ## Please find above the variable used in the tidy dataset (please refer to tidydata.txt).
 
-# Dimensions : 
+### Dimensions : 
 
 * `Subject` - list of number between 1 and 30, corresponding to the subject
 * `Activity` - The activity corresponding to subject's movements. There are 6 differents activities : 
 
-** `WALKING`
-** `WALKING_UPSTAIRS`
-** `WALKING_DOWNSTAIRS` 
-** `SITTING` 
-** `STANDING` 
-** `LAYING` 
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS` 
+* `SITTING` 
+* `STANDING` 
+* `LAYING` 
 
-# Measurements
+### Measurements
 
- "tBodyAcc-mean()-X1"                      "tBodyAcc-mean()-Y2"                     
+ * "tBodyAcc-mean()-X1"                      * "tBodyAcc-mean()-Y2"                     
  "tBodyAcc-mean()-Z3"                      "tBodyAcc-std()-X4"                      
-  [7] "tBodyAcc-std()-Y5"                       "tBodyAcc-std()-Z6"                      
-  [9] "tBodyAcc-mad()-X7"                       "tBodyAcc-mad()-Y8"                      
- [11] "tBodyAcc-mad()-Z9"                       "tBodyAcc-max()-X10"                     
- [13] "tBodyAcc-max()-Y11"                      "tBodyAcc-max()-Z12"                     
- [15] "tBodyAcc-min()-X13"                      "tBodyAcc-min()-Y14"                     
- [17] "tBodyAcc-min()-Z15"                      "tBodyAcc-sma()16"                       
- [19] "tBodyAcc-energy()-X17"                   "tBodyAcc-energy()-Y18"                  
- [21] "tBodyAcc-energy()-Z19"                   "tBodyAcc-iqr()-X20"                     
- [23] "tBodyAcc-iqr()-Y21"                      "tBodyAcc-iqr()-Z22"                     
- [25] "tBodyAcc-entropy()-X23"                  "tBodyAcc-entropy()-Y24"                 
- [27] "tBodyAcc-entropy()-Z25"                  "tBodyAcc-arCoeff()-X,126"               
- [29] "tBodyAcc-arCoeff()-X,227"                "tBodyAcc-arCoeff()-X,328"               
+ "tBodyAcc-std()-Y5"                       "tBodyAcc-std()-Z6"                      
+ "tBodyAcc-mad()-X7"                       "tBodyAcc-mad()-Y8"                      
+ "tBodyAcc-mad()-Z9"                       "tBodyAcc-max()-X10"                     
+ "tBodyAcc-max()-Y11"                      "tBodyAcc-max()-Z12"                     
+ "tBodyAcc-min()-X13"                      "tBodyAcc-min()-Y14"                     
+ "tBodyAcc-min()-Z15"                      "tBodyAcc-sma()16"                       
+ "tBodyAcc-energy()-X17"                   "tBodyAcc-energy()-Y18"                  
+ "tBodyAcc-energy()-Z19"                   "tBodyAcc-iqr()-X20"                     
+ "tBodyAcc-iqr()-Y21"                      "tBodyAcc-iqr()-Z22"                     
+ "tBodyAcc-entropy()-X23"                  "tBodyAcc-entropy()-Y24"                 
+ "tBodyAcc-entropy()-Z25"                  "tBodyAcc-arCoeff()-X,126"               
+ "tBodyAcc-arCoeff()-X,227"                "tBodyAcc-arCoeff()-X,328"               
  [31] "tBodyAcc-arCoeff()-X,429"                "tBodyAcc-arCoeff()-Y,130"               
  [33] "tBodyAcc-arCoeff()-Y,231"                "tBodyAcc-arCoeff()-Y,332"               
  [35] "tBodyAcc-arCoeff()-Y,433"                "tBodyAcc-arCoeff()-Z,134"               
