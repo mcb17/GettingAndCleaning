@@ -1,5 +1,5 @@
 
-## Please find above the variable used in the tidy dataset (please refer to tidydata.txt).
+## Please find below the variable used in the tidy dataset (please refer to tidydata.txt).
 
 ### Dimensions : 
 
